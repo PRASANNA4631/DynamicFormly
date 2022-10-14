@@ -5,9 +5,9 @@ import { MaterialModule } from 'src/app/shared/modules/material.module';
 import { SharedModule } from 'src/app/shared/modules/shared.module';
 
 import { PersonInformationRoutingModule } from './person-information-routing.module';
-import { FamilyDetailsComponent } from './family-details/family-details.component';
-import { EducationDetailsComponent } from './education-details/education-details.component';
-import { AssetsDetailsComponent } from './assets-details/assets-details.component';
+import { FamilyDetailsComponent } from './Components/family-details/family-details.component';
+import { EducationDetailsComponent } from './Components/education-details/education-details.component';
+import { AssetsDetailsComponent } from './Components/assets-details/assets-details.component';
 
 
 @NgModule({
